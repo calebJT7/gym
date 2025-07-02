@@ -322,6 +322,11 @@
             font-weight: 800;
             color: var(--primary-green);
             margin: 1rem 0;
+            display: flex;
+            align-items: baseline;
+            justify-content: center;
+            gap: 0.25rem;
+            flex-wrap: wrap;        
         }
 
         .price-period {
