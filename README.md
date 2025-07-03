@@ -4,7 +4,7 @@ A modern and responsive landing page built to promote a gym and its membership p
 
 ## 🌐 Live Demo
 
-[🔗 View the project online](https://tupagina.vercel.app)
+[🔗 View the project online](https://calebjt7.github.io/gym/)
 
 ## ✨ Features
 
