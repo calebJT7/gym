@@ -2,6 +2,10 @@
 
 A modern and responsive landing page built to promote a gym and its membership plans. Designed with a focus on user experience, clean layout, and eye-catching visuals.
 
+## 🌐 Live Demo
+
+[🔗 View the project online](https://tupagina.vercel.app)
+
 ## ✨ Features
 
 - Sleek **dark mode** design
